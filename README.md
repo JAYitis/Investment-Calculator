@@ -1,4 +1,4 @@
-﻿# A React Investment-Calculator
+﻿# A React Investment Calculator
 •	Contains 4 fields for user input with validation.\
 •	State used to update values whenever user changes any on field.\
 •	Detailed view for each year with investment value, interest per year, total interest and invested capital.\
