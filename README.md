@@ -1,7 +1,7 @@
 ﻿# A React Investment Calculator
 •	Contains 4 fields for user input with validation.\
 •	State used to update values whenever user changes any on field.\
-•	Detailed view for each year with investment value, interest per year, total interest and invested capital.\
+•	Detailed view for each year with investment value, interest per year, total interest and invested capital.
 
 ![1](https://github.com/JAYitis/Investment-Calculator/assets/76193106/f88a3249-5400-40a2-8536-b47a08e4d2fc)
 |:--:| 
